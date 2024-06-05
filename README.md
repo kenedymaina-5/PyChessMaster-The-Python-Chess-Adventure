@@ -12,4 +12,4 @@ Python Chess Game is a console-based chess game implemented in Python.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/python-chess-game.git
+   git clone kenedymaina-5/PyChessMaster-The-Python-Chess-Adventure
